@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdave",
+        "uuid": 18005442,
+        "checksum": "r37s0m"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
